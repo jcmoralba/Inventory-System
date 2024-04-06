@@ -1,7 +1,7 @@
 <aside id="sidebar">
     <div class="d-flex">
         <button class="toggle-btn" type="button">
-            <i class="lni lni-grid-alt"></i>
+            <i id="toggle" class="lni lni-grid-alt rotate_btn"></i>
         </button>
         <div class="sidebar-logo">
             <a href="#">jcbm</a>
@@ -82,3 +82,4 @@
         </a>
     </div>
 </aside>
+
