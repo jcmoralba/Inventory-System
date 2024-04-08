@@ -1,2 +1,2 @@
 # Inventory-System
- Scalable inventory system
+ Scalable inventory system (web-based)
